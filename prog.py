@@ -1,5 +1,5 @@
 def show():
     """doc string"""
-    li=[1,2,4,6,7]
+    li=[1,2,4,6,7,12,23]
     for i in range(len(li)):
         print i,
