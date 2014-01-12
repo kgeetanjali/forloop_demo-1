@@ -4,3 +4,4 @@ def show():
     for index in range(len(li)):
         print index,
      print 'hello world'
+     print 'forking repo'
